@@ -1,3 +1,10 @@
+/**
+ * tests for mat exercise.
+ * 
+ * Author: Dor Baram
+ * Since : 2022-03
+ */
+
 #include "doctest.h"
 #include "mat.hpp"
 using namespace ariel;
